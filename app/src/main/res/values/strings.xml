@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice2</string>
+    <string name="exit">Cerrar</string>
+    <string name="clean">Limpiar</string>
+    <string name="calculate">Calcular</string>
+    <string name="weight">(Kilogramos) Peso:</string>
+    <string name="height">(Metros) Altura:</string>
+    <string name="greeting">Bienvenido Alvaro</string>
+</resources>
